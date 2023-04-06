@@ -1,0 +1,101 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\source\\repos\\GlowBackEnd\\FoodHub\\wwwroot\\Images\\Category\\0514da39-f35a-4d46-9c9d-6a510e1cc533_WhatsApp Image 2022-07-09 at 10.52.30 PM.jpeg",
+      "PackagePath": "staticwebassets\\Images\\Category\\0514da39-f35a-4d46-9c9d-6a510e1cc533_WhatsApp Image 2022-07-09 at 10.52.30 PM.jpeg"
+    },
+    {
+      "Id": "D:\\source\\repos\\GlowBackEnd\\FoodHub\\wwwroot\\Images\\Category\\38346d1b-3815-4f91-9cff-3e3c8a13d753_WhatsApp Image 2022-07-09 at 10.52.30 PM.jpeg",
+      "PackagePath": "staticwebassets\\Images\\Category\\38346d1b-3815-4f91-9cff-3e3c8a13d753_WhatsApp Image 2022-07-09 at 10.52.30 PM.jpeg"
+    },
+    {
+      "Id": "D:\\source\\repos\\GlowBackEnd\\FoodHub\\wwwroot\\Images\\Category\\7a9f3bd9-174d-4068-8f85-beeb6e420cd3_WhatsApp Image 2023-03-27 at 9.54.21 PM.jpeg",
+      "PackagePath": "staticwebassets\\Images\\Category\\7a9f3bd9-174d-4068-8f85-beeb6e420cd3_WhatsApp Image 2023-03-27 at 9.54.21 PM.jpeg"
+    },
+    {
+      "Id": "D:\\source\\repos\\GlowBackEnd\\FoodHub\\wwwroot\\Images\\Item\\14c72e05-3a82-4001-a409-f73ed7a1ed88_index.jpg",
+      "PackagePath": "staticwebassets\\Images\\Item\\14c72e05-3a82-4001-a409-f73ed7a1ed88_index.jpg"
+    },
+    {
+      "Id": "D:\\source\\repos\\GlowBackEnd\\FoodHub\\wwwroot\\Images\\Item\\1816f9b3-c64b-43d8-bec3-9b3bb5ea5f3e_index.jpg",
+      "PackagePath": "staticwebassets\\Images\\Item\\1816f9b3-c64b-43d8-bec3-9b3bb5ea5f3e_index.jpg"
+    },
+    {
+      "Id": "D:\\source\\repos\\GlowBackEnd\\FoodHub\\wwwroot\\Images\\Item\\e5b5fc98-eec3-4a9d-9370-6fc4cf1d0f13_index.jpg",
+      "PackagePath": "staticwebassets\\Images\\Item\\e5b5fc98-eec3-4a9d-9370-6fc4cf1d0f13_index.jpg"
+    },
+    {
+      "Id": "D:\\source\\repos\\GlowBackEnd\\FoodHub\\wwwroot\\Images\\index.jpg",
+      "PackagePath": "staticwebassets\\Images\\index.jpg"
+    },
+    {
+      "Id": "D:\\source\\repos\\GlowBackEnd\\FoodHub\\wwwroot\\Images\\index1.jpg",
+      "PackagePath": "staticwebassets\\Images\\index1.jpg"
+    },
+    {
+      "Id": "D:\\source\\repos\\GlowBackEnd\\FoodHub\\wwwroot\\Images\\index3.jpg",
+      "PackagePath": "staticwebassets\\Images\\index3.jpg"
+    },
+    {
+      "Id": "D:\\source\\repos\\GlowBackEnd\\FoodHub\\wwwroot\\QrCodes\\2d3e14a0-78ad-4e02-80e9-d34cf5aba549.jpeg",
+      "PackagePath": "staticwebassets\\QrCodes\\2d3e14a0-78ad-4e02-80e9-d34cf5aba549.jpeg"
+    },
+    {
+      "Id": "D:\\source\\repos\\GlowBackEnd\\FoodHub\\wwwroot\\QrCodes\\2da84102-1b25-4cbb-a048-be75b2ea27c8.jpeg",
+      "PackagePath": "staticwebassets\\QrCodes\\2da84102-1b25-4cbb-a048-be75b2ea27c8.jpeg"
+    },
+    {
+      "Id": "D:\\source\\repos\\GlowBackEnd\\FoodHub\\wwwroot\\QrCodes\\2f23b58b-865f-4a3e-80d8-173942f0d893.jpeg",
+      "PackagePath": "staticwebassets\\QrCodes\\2f23b58b-865f-4a3e-80d8-173942f0d893.jpeg"
+    },
+    {
+      "Id": "D:\\source\\repos\\GlowBackEnd\\FoodHub\\wwwroot\\QrCodes\\5a172768-1154-4115-a107-aa4ea1d830da.jpeg",
+      "PackagePath": "staticwebassets\\QrCodes\\5a172768-1154-4115-a107-aa4ea1d830da.jpeg"
+    },
+    {
+      "Id": "D:\\source\\repos\\GlowBackEnd\\FoodHub\\wwwroot\\QrCodes\\6a78f88e-654b-4fec-aec6-ec81b560f063.jpeg",
+      "PackagePath": "staticwebassets\\QrCodes\\6a78f88e-654b-4fec-aec6-ec81b560f063.jpeg"
+    },
+    {
+      "Id": "D:\\source\\repos\\GlowBackEnd\\FoodHub\\wwwroot\\QrCodes\\867c4c1e-f5cd-4b46-a024-3177f184b336.jpeg",
+      "PackagePath": "staticwebassets\\QrCodes\\867c4c1e-f5cd-4b46-a024-3177f184b336.jpeg"
+    },
+    {
+      "Id": "D:\\source\\repos\\GlowBackEnd\\FoodHub\\wwwroot\\QrCodes\\88bdb96f-16e1-423b-a0b0-bbac8f443d84.jpeg",
+      "PackagePath": "staticwebassets\\QrCodes\\88bdb96f-16e1-423b-a0b0-bbac8f443d84.jpeg"
+    },
+    {
+      "Id": "D:\\source\\repos\\GlowBackEnd\\FoodHub\\wwwroot\\QrCodes\\91422a31-fe3c-4a15-ac32-f611ef0441b4.jpeg",
+      "PackagePath": "staticwebassets\\QrCodes\\91422a31-fe3c-4a15-ac32-f611ef0441b4.jpeg"
+    },
+    {
+      "Id": "D:\\source\\repos\\GlowBackEnd\\FoodHub\\wwwroot\\QrCodes\\c16b9187-0f36-463d-8a9e-53deca967f6f.jpeg",
+      "PackagePath": "staticwebassets\\QrCodes\\c16b9187-0f36-463d-8a9e-53deca967f6f.jpeg"
+    },
+    {
+      "Id": "D:\\source\\repos\\GlowBackEnd\\FoodHub\\wwwroot\\QrCodes\\c20ac9f4-b7ef-447f-a4c8-432e9c456c28.jpeg",
+      "PackagePath": "staticwebassets\\QrCodes\\c20ac9f4-b7ef-447f-a4c8-432e9c456c28.jpeg"
+    },
+    {
+      "Id": "D:\\source\\repos\\GlowBackEnd\\FoodHub\\wwwroot\\QrCodes\\ca8dcf41-5ae7-4f97-8232-38daaae24970.jpeg",
+      "PackagePath": "staticwebassets\\QrCodes\\ca8dcf41-5ae7-4f97-8232-38daaae24970.jpeg"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.FoodHub.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.FoodHub.props",
+      "PackagePath": "build\\FoodHub.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.FoodHub.props",
+      "PackagePath": "buildMultiTargeting\\FoodHub.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.FoodHub.props",
+      "PackagePath": "buildTransitive\\FoodHub.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
